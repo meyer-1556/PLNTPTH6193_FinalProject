@@ -42,7 +42,7 @@ The workflow will generate directories for each major step (e.g., ```qc```, ```t
 
 ### **Challenges & Uncertainties**
 
--   **Computational Resources**: Given the large size of the **allreads.fastq** file (3.2GB), processing time and memory requirements could pose challenges.
+-   **Computational Resources**: Given the large size of the ```allreads.fastq``` file (3.2GB), processing time and memory requirements could pose challenges.
 -   **Taxonomic Resolution**: The effectiveness of taxonomic classification may be limited by the reference database's comprehensiveness and the inherent resolution limits of 16S rRNA sequencing.
 
 ## **Rationale**

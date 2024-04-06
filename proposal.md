@@ -7,7 +7,7 @@ This project seeks to uncover the effects of harmane, a compound found in the my
 
 ### **Data**
 
-The dataset consists of a demultiplexed **allreads.fastq** file from an Illumina MinION sequencing run, comprising 24 samples divided into four categories:
+The dataset consists of a demultiplexed ```allreads.fastq``` file from an Illumina MinION sequencing run, comprising 24 samples divided into four categories:
 
 -   **Harmane-Treated Horse Dung**: 9 samples collected over three time points (barcodes 1-9).
 -   **Non-Harmane-Treated Horse Dung**: 9 samples serving as controls, collected simultaneously with the treated samples (barcodes 10-18).
